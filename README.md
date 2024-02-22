@@ -90,4 +90,4 @@ En el caso de Flux, tengamos en cuenta los demás items enviados:
 
 ##  Caso práctico
 
-En el presente repositorio se encuentra la carpeta example la cual contiene una API simple que devuelve una lista de clientes. El objetivo es completar los tests unitarios solicitados utilizando las funciones previamente explicadas.
+En el presente repositorio se encuentra la carpeta example la cual contiene una serie de Monos y Fluxs. El objetivo es completar los tests unitarios solicitados utilizando las funciones previamente explicadas.
