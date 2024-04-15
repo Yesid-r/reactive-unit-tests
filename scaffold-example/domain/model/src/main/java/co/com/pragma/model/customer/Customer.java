@@ -11,4 +11,9 @@ import lombok.Setter;
 @AllArgsConstructor
 @Builder(toBuilder = true)
 public class Customer {
+
+    private Integer customerId;
+    private String firstName;
+    private String lastName;
+    private String gender;
 }

@@ -1,3 +1,4 @@
+
 # Tests unitarios con Webflux
 
 El siguiente repositorio está creado para afianzar en la práctica del uso de pruebas unitarias en la programación reactiva con Webflux.
@@ -90,4 +91,10 @@ En el caso de Flux, tengamos en cuenta los demás items enviados:
 
 ##  Caso práctico
 
-En el presente repositorio se encuentra la carpeta example la cual contiene una API simple que devuelve una lista de clientes. El objetivo es completar los tests unitarios solicitados utilizando las funciones previamente explicadas.
+En el presente repositorio se encuentran dos proyectos con los que podrás poner en práctica lo anteriormente explicado.
+example: test unitarios sencillos que te ayudarán a repasar los principales métodos de testing con webflux.
+scaffold-exampe: la cual contiene una API simple que devuelve una lista de clientes o un cliente según su id. 
+
+    /api/customer
+    /api/customer/1
+
