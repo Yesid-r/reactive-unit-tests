@@ -93,7 +93,7 @@ En el caso de Flux, tengamos en cuenta los demás items enviados:
 
 En el presente repositorio se encuentran dos proyectos con los que podrás poner en práctica lo anteriormente explicado.
 example: test unitarios sencillos que te ayudarán a repasar los principales métodos de testing con webflux.
-scaffold-exampe: la cual contiene una API simple que devuelve una lista de clientes o un cliente según su id. 
+scaffold-example: la cual contiene una API simple que devuelve una lista de clientes o un cliente según su id. 
 
     /api/customer
     /api/customer/1
